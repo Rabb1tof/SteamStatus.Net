@@ -13,3 +13,4 @@ R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus.Net.application
 R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus .Net.csproj.CopyComplete
 R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus.Net.exe
 R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus.Net.pdb
+R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus .Net.csprojAssemblyReference.cache
