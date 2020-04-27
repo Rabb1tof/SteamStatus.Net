@@ -1,0 +1,15 @@
+R:\Narabotki\SteamStatus .Net\bin\Release\SteamStatus.Net.exe.config
+R:\Narabotki\SteamStatus .Net\bin\Release\SteamStatus.Net.exe.manifest
+R:\Narabotki\SteamStatus .Net\bin\Release\SteamStatus.Net.application
+R:\Narabotki\SteamStatus .Net\bin\Release\SteamStatus.Net.exe
+R:\Narabotki\SteamStatus .Net\bin\Release\SteamStatus.Net.pdb
+R:\Narabotki\SteamStatus .Net\bin\Release\Newtonsoft.Json.dll
+R:\Narabotki\SteamStatus .Net\bin\Release\Newtonsoft.Json.xml
+R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus.Net.Properties.Resources.resources
+R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus .Net.csproj.GenerateResource.cache
+R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus .Net.csproj.CoreCompileInputs.cache
+R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus.Net.exe.manifest
+R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus.Net.application
+R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus .Net.csproj.CopyComplete
+R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus.Net.exe
+R:\Narabotki\SteamStatus .Net\obj\Release\SteamStatus.Net.pdb
