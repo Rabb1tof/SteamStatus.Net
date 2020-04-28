@@ -6,7 +6,7 @@ namespace SteamStatus.Net
 {
     static class Program
     {
-        public static Icon ApplicationIcon => new Icon("../../../icon.ico");
+        public static Icon ApplicationIcon => new Icon("icon.ico");
 
         /// <summary>
         /// Главная точка входа для приложения.
